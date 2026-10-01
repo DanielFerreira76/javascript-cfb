@@ -1,1 +1,7 @@
 console.log(10 & 11)
+console.log(10 | 11)
+console.log(10 ^ 11)
+console.log(7 << 1)
+console.log(7 << 2)
+console.log(28 >> 1)
+console.log(28 >> 2)
