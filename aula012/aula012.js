@@ -16,3 +16,11 @@ console.log(soma(...valores))
 
 const objs = document.getElementsByTagName("div")
 const objs1 = [...objs]
+
+objs1.forEach((el) => {
+    console.log(el)
+})
+
+objs1.forEach((el) => {
+    el.innerHTML = "JS"
+})
